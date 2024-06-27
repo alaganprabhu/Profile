@@ -897,7 +897,14 @@ html {
   gap: 3rem;
   font-size: 19px;
   font-family: alata;
-  /* padding: 25px; */
+}
+.para_2{
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  font-size: 19px;
+  font-family: alata;
+  margin-top: 2rem;
 }
 .location {
   display: flex;
